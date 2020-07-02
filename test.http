@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/deets/signup http/1.1
+Content-Type: application/json
+
+{
+    "username":"peoplefrom",
+    "email":"peopleperson@email.com",
+    "password":"peoplepassword123"
+}
